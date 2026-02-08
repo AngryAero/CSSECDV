@@ -458,16 +458,7 @@
                 "elevationOfPrivilege": 0
               }
             },
-            "zIndex": 3,
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
-            }
+            "zIndex": 3
           },
           {
             "position": {
