@@ -1,0 +1,27 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Class Activity 3 - Threat Modeling: STRIDE",
+    "owner": "Aero Cerezo",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Class Activity 3 - Threat Modeling: STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Class Activity 3 - Threat Modeling: STRIDE"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Aero Cerezo",
+    "threatTop": 0
+  }
+}
